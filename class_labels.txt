@@ -1,0 +1,1000 @@
+ 0, havuz balığı, テンチ, tench
+ 1, Japon balığı, 金魚, goldfish
+ 2, büyük beyaz köpek balığı, ホオジロザメ, great white shark
+ 3, kaplan köpek balığı, イタチザメ, tiger shark
+ 4, çekiç balığı, シュモクザメ, hammerhead
+ 5, torpil balığı, シビレエイ, electric ray
+ 6, vatoz, アカエイ, stingray
+ 7, horoz, おんどり, cock
+ 8, tavuk, めんどり, hen
+ 9, devekuşu, ダチョウ, ostrich
+ 10, dağ ispinozu, アトリ, brambling
+ 11, saka kuşu, ゴシキヒワ, goldfinch
+ 12, evin ispinozu, メキシコマシコ, house finch
+ 13, karkuşu, ユキヒメドリ, junco
+ 14, çivit çintesi, ルリノジコ, indigo bunting
+ 15, nar bülbülü, コマツグミ, robin
+ 16, bülbül, ヒヨドリ, bulbul
+ 17, alakarga, カケス, jay
+ 18, saksağan, カササギ, magpie
+ 19, baştankara, シジュウカラ, chickadee
+ 20, derekuşu, カワガラス, water ouzel
+ 21, çaylak, タカ, kite
+ 22, kel kartal, ハクトウワシ, bald eagle
+ 23, akbaba, ハゲタカ, vulture
+ 24, büyük gri baykuş, カラフトフクロウ, great grey owl
+ 25, Avrupa ateş semenderi, ヨーロッパサンショウウオ, European fire salamander
+ 26, ortak semender, スベイモリ, common newt
+ 27, kertenkele, イモリ, eft
+ 28, benekli semender, キボシサンショウウオ, spotted salamander
+ 29, aksolotl, ウーパールーパー, axolotl
+ 30, öküz kurbağası, ウシガエル, bullfrog
+ 31, ağaç kurbağası, アマガエル, tree frog
+ 32, kuyruklu kurbağa, オガエル, tailed frog
+ 33, caretta(deniz kaplumbağası), アカウミガメ, loggerhead
+ 34, deri sırtlı kaplumbağa, オサガメ, leatherback turtle
+ 35, çamur kaplumbağası, ドロガメ, mud turtle
+ 36, tatlısu kaplumbağası, キスイガメ, terrapin
+ 37, kutu kaplumbağası, ハコガメ, box turtle
+ 38, geko kertenkelesi, トカゲモドキ, banded gecko
+ 39, iguana, イグアナ, common iguana
+ 40, Amerikan bukalemun, アメリカカメレオン, American chameleon
+ 41, kamçı kuyruklu kertenkele, ウィップテール・リザード, whiptail
+ 42, dikenli kertenkele, アガマ, agama
+ 43, yakalı kertenkele, エリマキトカゲ, frilled lizard
+ 44, timsah kertenkelesi, アシナシトカゲ, alligator lizard
+ 45, gila canavarı, アメリカドクトカゲ, Gila monster
+ 46, yeşil kertenkele, ミドリカナヘビ, green lizard
+ 47, Afrika bukalemun, アフリカカメレオン, African chameleon
+ 48, komodo ejderi, コモドドラゴン, Komodo dragon
+ 49, Afrika timsah, ナイルワニ, African crocodile
+ 50, Amerikan timsah, アメリカアリゲーター, American alligator
+ 51, triceratops, トリケラトプス, triceratops
+ 52, kör yılan, メクラヘビ, thunder snake
+ 53, halkalı yılan, クビワヘビ, ringneck snake
+ 54, domuz burunlu yılan, シシバナヘビ, hognose snake
+ 55, yeşil yılan, アオヘビ, green snake
+ 56, kral yılanı, キングヘビ, king snake
+ 57, jartiyer yılanı, ガーターヘビ, garter snake
+ 58, su yılanı, ミズベヘビ, water snake
+ 59, asma yılan, ツルヘビ, vine snake
+ 60, gece yılan, ナイトスネーク, night snake
+ 61, boa yılanı, ボアコンストリクター, boa constrictor
+ 62, kaya yılanı, アフリカニシキヘビ, rock python
+ 63, gözlüklü yılan, インドコブラ, Indian cobra
+ 64, yeşil mamba, グリーンマンバ, green mamba
+ 65, deniz yılanı, ウミヘビ, sea snake
+ 66, engerek yılanı, ツノクサリヘビ, horned viper
+ 67, elmas sırtlı, ダイヤガラガラヘビ, diamondback
+ 68, çıngıraklı yılan, ヨコバイガラガラヘビ, sidewinder
+ 69, tribolit, サンヨウチュウ, trilobite
+ 70, baba longlegs, ザトウムシ, harvestman
+ 71, akrep, サソリ, scorpion
+ 72, siyah ve sarı bahçe örümceği, キマダラコガネグモ, black and gold garden spider
+ 73, ahır örümceği, オニグモ, barn spider
+ 74, bahçe örümceği, コガネグモ, garden spider
+ 75, karadul örümceği, クロゴケグモ, black widow
+ 76, tarantula, タランチュラ, tarantula
+ 77, kurt örümceği, コモリグモ, wolf spider
+ 78, kene, ダニ, tick
+ 79, kırkayak, ムカデ, centipede
+ 80, orman horozu, クロライチョウ, black grouse
+ 81, kar tavuğu, ライチョウ, ptarmigan
+ 82, yakalı orman tavuğu, エリマキライチョウ, ruffed grouse
+ 83, çayır tavuğu, ソウゲンライチョウ, prairie chicken
+ 84, tavuskuşu, クジャク, peacock
+ 85, bıldırcın, ウズラ, quail
+ 86, keklik, ヤマウズラ, partridge
+ 87, gri papağan, ヨウム, African grey
+ 88, Amerika papağanı, コンゴウインコ, macaw
+ 89, kükürt tepeli kakadu, キバタン, sulphur-crested cockatoo
+ 90, lori kuşu, ヒインコ, lorikeet
+ 91, guguk kuşu, バンケン, coucal
+ 92, arı kuşu, ハチクイ, bee eater
+ 93, öküzburnu, サイチョウ, hornbill
+ 94, sinekkuşu, ハチドリ, hummingbird
+ 95, jakamar, キリハシ, jacamar
+ 96, tukan, オオハシ, toucan
+ 97, erkek ördek, 雄ガモ, drake
+ 98, tarakdiş, ウミアイサ, red-breasted merganser
+ 99, kaz, ガチョウ, goose
+ 100, siyah kuğu, コクチョウ, black swan
+ 101, uzun dişli fil, ゾウ, tusker
+ 102, ekidne, ハリモグラ, echidna
+ 103, ornitorenk, カモノハシ, platypus
+ 104, valabi, ワラビー, wallaby
+ 105, koala, コアラ, koala
+ 106, vombat, ウォンバット, wombat
+ 107, deniz anası, クラゲ, jellyfish
+ 108, deniz anemonu, イソギンチャク, sea anemone
+ 109, beyin mercanı, 脳サンゴ, brain coral
+ 110, yassı solucan, 扁形動物, flatworm
+ 111, yuvarlak solucan, 線形動物, nematode
+ 112, sarmal deniz kabuğu, 巻貝, conch
+ 113, salyangoz, カタツムリ, snail
+ 114, sümüklüböcek, ナメクジ, slug
+ 115, deniz salyangozu, ウミウシ, sea slug
+ 116, kitonlar, ヒザラガイ, chiton
+ 117, odacıklı nautilus, オウムガイ, chambered nautilus
+ 118, Dungeness yengeç, アメリカイチョウガニ, Dungeness crab
+ 119, kaya yengeci, イチョウガニ, rock crab
+ 120, kemancı yengeci, シオマネキ, fiddler crab
+ 121, kral yengeç, タラバガニ, king crab
+ 122, Amerikan ıstakozu, アメリカンロブスター, American lobster
+ 123, dikenli ıstakoz, イセエビ, spiny lobster
+ 124, kerevit, ザリガニ, crayfish
+ 125, keşiş yengeci, ヤドカリ, hermit crab
+ 126, eş ayaklılar, ワラジムシ, isopod
+ 127, beyaz leylek, シュバシコウ, white stork
+ 128, kara leylek, ナベコウ, black stork
+ 129, kaşıklı balıkçıl, ヘラサギ, spoonbill
+ 130, flamingo, フラミンゴ, flamingo
+ 131, küçük mavi balıkçıl, ヒメアカクロサギ, little blue heron
+ 132, Amerikan balıkçılı, オオシラサギ, American egret
+ 133, balabankuşu, サンカノゴイ, bittern
+ 134, turna, ツル, crane
+ 135, limpkin kuş, ツルモドキ, limpkin
+ 136, sazhorozu, セイケイ, European gallinule
+ 137, Amerikan su tavuğu, アメリカオオバン, American coot
+ 138, toy kuşu, ノガン, bustard
+ 139, bayağı taşçeviren, キョウジョシギ, ruddy turnstone
+ 140, kızıl kumkuşu, ハマシギ, red-backed sandpiper
+ 141, kızılbacak, アカアシシギ, redshank
+ 142, çulluk, オオハシシギ, dowitcher
+ 143, deniz saksağanı, ミヤコドリ, oystercatcher
+ 144, pelikan, ペリカン, pelican
+ 145, kral penguen, キングペンギン, king penguin
+ 146, albatros, アホウドリ, albatross
+ 147, gri balina, コククジラ, grey whale
+ 148, katil balina, シャチ, killer whale
+ 149, dugon, ジュゴン, dugong
+ 150, deniz aslanı, アシカ, sea lion
+ 151, şivava(köpek cinsi), チワワ, Chihuahua
+ 152, Japon spaniel(köpek cinsi), チン, Japanese spaniel
+ 153, Maltese(köpek cinsi), マルチーズ, Maltese dog
+ 154, Pekingese(köpek cinsi), ペキニーズ, Pekinese
+ 155, Shih Tzu(köpek cinsi), シーズー, Shih-Tzu
+ 156, Blenheim spaniel(köpek cinsi), ブレンハイム・スパニエル, Blenheim spaniel
+ 157, papillon(köpek cinsi), パピヨン, papillon
+ 158, toy terrier(köpek cinsi), トイ・テリア, toy terrier
+ 159, Rodoslu ridgeback(köpek cinsi), ローデシアン・リッジバック, Rhodesian ridgeback
+ 160, Afgan tazısı(köpek cinsi), アフガン・ハウンド, Afghan hound
+ 161, basset hound(köpek cinsi), バセット・ハウンド, basset
+ 162, beagle(köpek cinsi), ビーグル, beagle
+ 163, bloodhound(köpek cinsi), ブラッドハウンド, bloodhound
+ 164, bluetick(köpek cinsi), ブルーティック, bluetick
+ 165, black-and-tan coonhound(köpek cinsi), ブラック・アンド・タン・クーンハウンド, black-and-tan coonhound
+ 166, Walker hound(köpek cinsi), ウォーカー・ハウンド, Walker hound
+ 167, English foxhound(köpek cinsi), イングリッシュ・フォックスハウンド, English foxhound
+ 168, redbone(köpek cinsi), レッドボーン, redbone
+ 169, borzoi(köpek cinsi), ボルゾイ, borzoi
+ 170, Irish wolfhound(köpek cinsi), アイリッシュ・ウルフハウンド, Irish wolfhound
+ 171, Italian greyhound(köpek cinsi), イタリアン・グレイハウンド, Italian greyhound
+ 172, whippet(köpek cinsi), ウィペット, whippet
+ 173, Ibizan hound(köpek cinsi), イビザン・ハウンド, Ibizan hound
+ 174, Norwegian elkhound(köpek cinsi), ノルウェジアン・エルクハウンド, Norwegian elkhound
+ 175, otterhound(köpek cinsi), オッターハウンド, otterhound
+ 176, Saluki(köpek cinsi), サルーキ, Saluki
+ 177, Scottish deerhound(köpek cinsi), スコティッシュ・ディアハウンド, Scottish deerhound
+ 178, Weimaraner(köpek cinsi), ワイマラナー, Weimaraner
+ 179, Staffordshire bullterrier(köpek cinsi), スタッフォードシャー・ブル・テリア, Staffordshire bullterrier
+ 180, American Staffordshire terrier(köpek cinsi), アメリカン・スタッフォードシャー・テリア, American Staffordshire terrier
+ 181, Bedlington terrier(köpek cinsi), ベドリントン・テリア, Bedlington terrier
+ 182, Border terrier(köpek cinsi), ボーダー・テリア, Border terrier
+ 183, Kerry blue terrier(köpek cinsi), ケリー・ブルー・テリア, Kerry blue terrier
+ 184, Irish terrier(köpek cinsi), アイリッシュ・テリア, Irish terrier
+ 185, Norfolk terrier(köpek cinsi), ノーフォーク・テリア, Norfolk terrier
+ 186, Norwich terrier(köpek cinsi), ノーリッチ・テリア, Norwich terrier
+ 187, Yorkshire terrier(köpek cinsi), ヨークシャー・テリア, Yorkshire terrier
+ 188, wire-haired fox terrier(köpek cinsi), ワイアー・フォックス・テリア, wire-haired fox terrier
+ 189, Lakeland terrier(köpek cinsi), レークランド・テリア, Lakeland terrier
+ 190, Sealyham terrier(köpek cinsi), シーリハム・テリア, Sealyham terrier
+ 191, Airedale(köpek cinsi), エアデール・テリア, Airedale
+ 192, cairn(köpek cinsi), ケアーン・テリア, cairn
+ 193, Australian terrier(köpek cinsi), オーストラリアン・テリア, Australian terrier
+ 194, Dandie Dinmont(köpek cinsi), ダンディ・ディンモント・テリア, Dandie Dinmont
+ 195, Boston bull(köpek cinsi), ボストン・テリア, Boston bull
+ 196, miniature schnauzer(köpek cinsi), ミニチュア・シュナウザー, miniature schnauzer
+ 197, giant schnauzer(köpek cinsi), ジャイアント・シュナウザー, giant schnauzer
+ 198, standard schnauzer(köpek cinsi), スタンダード・シュナウザー, standard schnauzer
+ 199, Scotch terrier(köpek cinsi), スコッチ・テリア, Scotch terrier
+ 200, Tibetan terrier(köpek cinsi), チベタン・テリア, Tibetan terrier
+ 201, silky terrier(köpek cinsi), シルキー・テリア, silky terrier
+ 202, soft-coated wheaten terrier(köpek cinsi), ソフトコーテッド・ウィートン・テリア, soft-coated wheaten terrier
+ 203, West Highland white terrier(köpek cinsi), ウエスト・ハイランド・ホワイト・テリア, West Highland white terrier
+ 204, Lhasa(köpek cinsi), ラサ・アプソ, Lhasa
+ 205, flat-coated retriever(köpek cinsi), フラットコーテッド・レトリーバー, flat-coated retriever
+ 206, curly-coated retriever(köpek cinsi), カーリーコーテッド・レトリーバー, curly-coated retriever
+ 207, golden retriever(köpek cinsi), ゴールデン・レトリバー, golden retriever
+ 208, Labrador retriever(köpek cinsi), ラブラドール・レトリバー, Labrador retriever
+ 209, Chesapeake Bay retriever(köpek cinsi), チェサピーク・ベイ・レトリーバー, Chesapeake Bay retriever
+ 210, German short-haired pointer(köpek cinsi), ジャーマン・ショートヘアード・ポインター, German short-haired pointer
+ 211, vizsla(köpek cinsi), ビズラ, vizsla
+ 212, English setter(köpek cinsi), イングリッシュ・セター, English setter
+ 213, Irish setter(köpek cinsi), アイリッシュ・セッター, Irish setter
+ 214, Gordon setter(köpek cinsi), ゴードン・セッター, Gordon setter
+ 215, Brittany spaniel(köpek cinsi), ブリタニー・スパニエル, Brittany spaniel
+ 216, clumber(köpek cinsi), クランバー・スパニエル, clumber
+ 217, English springer(köpek cinsi), イングリッシュ・スプリンガー・スパニエル, English springer
+ 218, Welsh springer spaniel(köpek cinsi), ウェルシュ・スプリンガー・スパニエル, Welsh springer spaniel
+ 219, cocker spaniel(köpek cinsi), イングリッシュ・コッカー・スパニエル, cocker spaniel
+ 220, Sussex spaniel(köpek cinsi), サセックス・スパニエル, Sussex spaniel
+ 221, Irish water spaniel(köpek cinsi), アイリッシュ・ウォーター・スパニエル, Irish water spaniel
+ 222, kuvasz(köpek cinsi), クーバース, kuvasz
+ 223, schipperke(köpek cinsi), スキッパーキ, schipperke
+ 224, groenendael(köpek cinsi), グローネンダール, groenendael
+ 225, malinois(köpek cinsi), マリノア, malinois
+ 226, briard(köpek cinsi), ブリアード, briard
+ 227, kelpie(köpek cinsi), ケルピー, kelpie
+ 228, komondor(köpek cinsi), コモンドール, komondor
+ 229, Old English sheepdog(köpek cinsi), オールド・イングリッシュ・シープドッグ, Old English sheepdog
+ 230, Shetland sheepdog(köpek cinsi), シェットランド・シープドッグ, Shetland sheepdog
+ 231, collie(köpek cinsi), コリー, collie
+ 232, Border collie(köpek cinsi), ボーダー・コリー, Border collie
+ 233, Bouvier des Flandres(köpek cinsi), ブービエ・デ・フランダース, Bouvier des Flandres
+ 234, Rottweiler(köpek cinsi), ロットワイラー, Rottweiler
+ 235, German shepherd(köpek cinsi), ジャーマン・シェパード, German shepherd
+ 236, Doberman(köpek cinsi), ドーベルマン, Doberman
+ 237, miniature pinscher(köpek cinsi), ミニチュア・ピンシャー, miniature pinscher
+ 238, Greater Swiss Mountain dog(köpek cinsi), グレーター・スイス・マウンテン・ドッグ, Greater Swiss Mountain dog
+ 239, Bernese mountain dog(köpek cinsi), バーニーズ・マウンテン・ドッグ, Bernese mountain dog
+ 240, Appenzeller(köpek cinsi), アッペンツェラー, Appenzeller
+ 241, EntleBucher(köpek cinsi), エントレブッハー, EntleBucher
+ 242, boxer(köpek cinsi), ボクサー, boxer
+ 243, bull mastiff(köpek cinsi), ブルマスティフ, bull mastiff
+ 244, Tibetan mastiff(köpek cinsi), チベタン・マスティフ, Tibetan mastiff
+ 245, French bulldog(köpek cinsi), フレンチ・ブルドッグ, French bulldog
+ 246, Great Dane(köpek cinsi), グレート・デーン, Great Dane
+ 247, Saint Bernard(köpek cinsi), セント・バーナード, Saint Bernard
+ 248, Eskimo dog(köpek cinsi), エスキモー・ドッグ, Eskimo dog
+ 249, malamute(köpek cinsi), マラミュート, malamute
+ 250, Siberian husky(köpek cinsi), シベリアン・ハスキー, Siberian husky
+ 251, dalmatian(köpek cinsi), ダルメシアン, dalmatian
+ 252, affenpinscher(köpek cinsi), アーフェンピンシャー, affenpinscher
+ 253, basenji(köpek cinsi), バセンジー, basenji
+ 254, pug(köpek cinsi), パグ, pug
+ 255, Leonberg(köpek cinsi), レオンベルガー, Leonberg
+ 256, Newfoundland(köpek cinsi), ニューファンドランド, Newfoundland
+ 257, Great Pyrenees(köpek cinsi), グレート・ピレニーズ, Great Pyrenees
+ 258, Samoyed(köpek cinsi), サモエド, Samoyed
+ 259, Pomeranian(köpek cinsi), ポメラニアン, Pomeranian
+ 260, chow(köpek cinsi), チャウチャウ, chow
+ 261, keeshond(köpek cinsi), キースホンド, keeshond
+ 262, Brabancon griffon(köpek cinsi), ブラバンソン, Brabancon griffon
+ 263, Pembroke(köpek cinsi), ウェルシュ・コーギー・ペンブローク, Pembroke
+ 264, Cardigan(köpek cinsi), ウェルシュ・コーギー・カーディガン, Cardigan
+ 265, toy poodle(köpek cinsi), トイ・プードル, toy poodle
+ 266, miniature poodle(köpek cinsi), ミニチュア・プードル, miniature poodle
+ 267, standard poodle(köpek cinsi), スタンダード・プードル, standard poodle
+ 268, Mexican hairless(köpek cinsi), メキシカン・ヘアレス・ドッグ, Mexican hairless
+ 269, gri kurt, タイリクオオカミ, timber wolf
+ 270, beyaz kurt, ホッキョクオオカミ, white wolf
+ 271, kızıl kurt, アメリカアカオオカミ, red wolf
+ 272, kır kurdu, コヨーテ, coyote
+ 273, dingo, ディンゴ, dingo
+ 274, Asya yaban  köpeği, ドール, dhole
+ 275, Afrika yaban köpeği, リカオン, African hunting dog
+ 276, sırtlan, ハイエナ, hyena
+ 277, kızıl tilki, アカギツネ, red fox
+ 278, cüce tilki, キットギツネ, kit fox
+ 279, kutup tilkisi, ホッキョクギツネ, Arctic fox
+ 280, gri tilki, ハイイロギツネ, grey fox
+ 281, tekir kedi, トラネコ, tabby
+ 282, kaplan kedisi, ジャガーネコ, tiger cat
+ 283, İran kedisi, ペルシャネコ, Persian cat
+ 284, Siyam kedisi, シャムネコ, Siamese cat
+ 285, Mısır kedisi, エジプシャンマウ, Egyptian cat
+ 286, puma, ピューマ, cougar
+ 287, vaşak, リンクス, lynx
+ 288, leopar, ヒョウ, leopard
+ 289, kar leoparı, ユキヒョウ, snow leopard
+ 290, jaguar, ジャガー, jaguar
+ 291, aslan, ライオン, lion
+ 292, kaplan, トラ, tiger
+ 293, çita, チーター, cheetah
+ 294, boz ayı, ヒグマ, brown bear
+ 295, Amerikan siyah ayısı, アメリカグマ, American black bear
+ 296, kutup ayısı, ホッキョクグマ, ice bear
+ 297, tembel ayı, ナマケグマ, sloth bear
+ 298, firavun faresi, マングース, mongoose
+ 299, mirket, ミーアキャット, meerkat
+ 300, kaplan böceği, ハンミョウ, tiger beetle
+ 301, uğur böceği, テントウムシ, ladybug
+ 302, ağılı böcek, オサムシ, ground beetle
+ 303, teke böceği, カミキリムシ, long-horned beetle
+ 304, yaprak böceği, ハムシ, leaf beetle
+ 305, bok böceği, フンコロガシ, dung beetle
+ 306, gergedan böceği, カブトムシ, rhinoceros beetle
+ 307, buğday biti, ゾウムシ, weevil
+ 308, sinek, ハエ, fly
+ 309, arı, ハチ, bee
+ 310, karınca, アリ, ant
+ 311, çekirge, バッタ, grasshopper
+ 312, kriket böceği, コオロギ, cricket
+ 313, baston böceği, ナナフシ, walking stick
+ 314, hamam böceği, ゴキブリ, cockroach
+ 315, peygamber devesi, カマキリ, mantis
+ 316, ağustos böceği, セミ, cicada
+ 317, yaprak piresi, ヨコバイ, leafhopper
+ 318, zarkanat, クサカゲロウ, lacewing
+ 319, yusufçuk, トンボ, dragonfly
+ 320, kızböceği, イトトンボ, damselfly
+ 321, amiral kelebegi, アカタテハ, admiral
+ 322, halkacık, チョウセンジャノメ, ringlet
+ 323, monark kelebeği, オオカバマダラ, monarch
+ 324, lahana kelebeği, モンシロチョウ, cabbage butterfly
+ 325, kükürt kelebeği, キチョウ, sulphur butterfly
+ 326, lycaenid, シジミチョウ, lycaenid
+ 327, deniz yıldızı, ヒトデ, starfish
+ 328, deniz kestanesi, うに, sea urchin
+ 329, deniz hıyarı, ナマコ, sea cucumber
+ 330, pamuk kuyruklu tavşan, ワタオウサギ, wood rabbit
+ 331, yabani tavşan, ノウサギ, hare
+ 332, Angora tavşanı, アンゴラウサギ, Angora
+ 333, hamster, ハムスター, hamster
+ 334, kirpi, ヤマアラシ, porcupine
+ 335, sincap, キツネリス, fox squirrel
+ 336, dağ sıçanı, マーモット, marmot
+ 337, kunduz, ビーバー, beaver
+ 338, kobay, モルモット, guinea pig
+ 339, kula at, 栗毛馬, sorrel
+ 340, zebra, シマウマ, zebra
+ 341, domuz, ブタ, hog
+ 342, yaban domuzu, イノシシ, wild boar
+ 343, düğmeli domuzu, イボイノシシ, warthog
+ 344, su aygırı, カバ, hippopotamus
+ 345, öküz, 雄牛, ox
+ 346, manda, スイギュウ, water buffalo
+ 347, bizon, バイソン, bison
+ 348, koç, ヒツジ, ram
+ 349, kanada koyunu, ビッグホーン, bighorn
+ 350, dağ keçisi, アイベックス, ibex
+ 351, inek antilobu, ハーテビースト, hartebeest
+ 352, impala, インパラ, impala
+ 353, ceylan, ガゼル, gazelle
+ 354, Arap devesi, ヒトコブラクダ, Arabian camel
+ 355, lama, ラマ, llama
+ 356, gelincik, イタチ, weasel
+ 357, vizon, ミンク, mink
+ 358, sansar, ヨーロッパケナガイタチ, polecat
+ 359, kara ayaklı gelincik, クロアシイタチ, black-footed ferret
+ 360, su samuru, カワウソ, otter
+ 361, kokarca, スカンク, skunk
+ 362, porsuk, タヌキ, badger
+ 363, armadillo, アルマジロ, armadillo
+ 364, üç parmaklı tembel hayvanlar, ミユビナマケモノ, three-toed sloth
+ 365, orangutan, オランウータン, orangutan
+ 366, goril, ゴリラ, gorilla
+ 367, şempanze, チンパンジー, chimpanzee
+ 368, jibon maymunu, テナガザル, gibbon
+ 369, siamang maymunu, フクロテナガザル, siamang
+ 370, dişi maymun, グエノン, guenon
+ 371, patas maymunu, パタスモンキー, patas
+ 372, babun, ヒヒ, baboon
+ 373, makak, マカク, macaque
+ 374, langur, ラングール, langur
+ 375, colobus maymunu, コロブスサル, colobus
+ 376, uzun burunlu maymun, テングザル, proboscis monkey
+ 377, ipek maymun, マーモセット, marmoset
+ 378, başlıklı maymun, オマキザル, capuchin
+ 379, uluyan maymun, ホエザル, howler monkey
+ 380, titi maymunu, ティティモンキー, titi
+ 381, örümcek maymunu, クモザル, spider monkey
+ 382, sincap maymunu, リスザル, squirrel monkey
+ 383, Madagaskar kedisi, マダガスカルキャット, Madagascar cat
+ 384, indri, インドリ, indri
+ 385, Hindistan fili, インドゾウ, Indian elephant
+ 386, Afrika fili, アフリカゾウ, African elephant
+ 387, kızıl panda, レッサーパンダ, lesser panda
+ 388, dev panda, ジャイアントパンダ, giant panda
+ 389, ıskarmoz balığı, バラクータ, barracouta
+ 390, yılan balığı, ウナギ, eel
+ 391, coho, ギンザケ, coho
+ 392, rock güzellik melek balığı, ロック･ビューティー, rock beauty
+ 393, anemon balığı, クマノミ, anemone fish
+ 394, mersin balığı, チョウザメ, sturgeon
+ 395, zargana, ガー, gar
+ 396, aslan balığı, ミノカサゴ, lionfish
+ 397, kirpi balığı, フグ, puffer
+ 398, abaküs, そろばん, abacus
+ 399, abaya, アバヤ, abaya
+ 400, akademik elbisesi, アカデミックガウン, academic gown
+ 401, akordeon, アコーディオン, accordion
+ 402, akustik gitar, アコースティックギター, acoustic guitar
+ 403, uçak gemisi, 空母, aircraft carrier
+ 404, dev uçak, 旅客機, airliner
+ 405, zeplin, 飛行船, airship
+ 406, altar(sunak), 祭壇, altar
+ 407, ambulans, 救急車, ambulance
+ 408, amfibi araç, 水陸両用車, amphibious vehicle
+ 409, Analog saat, アナログ時計, analog clock
+ 410, arı evi, 養蜂場, apiary
+ 411, önlük, エプロン, apron
+ 412, çöp kutusu, ごみ箱, ashcan
+ 413, saldırı tüfeği, アサルトライフル, assault rifle
+ 414, sırt çantası, バックパック, backpack
+ 415, ekmek fırını, パン屋, bakery
+ 416, denge aleti, 平均台, balance beam
+ 417, balon, 気球, balloon
+ 418, tükenmez kalem, ボールペン, ballpoint
+ 419, Yara bandı, バンドエイド, Band Aid
+ 420, banço, バンジョー, banjo
+ 421, korkuluk, 手すり, bannister
+ 422, halter, バーベル, barbell
+ 423, berber sandalyesi, バーバーチェア, barber chair
+ 424, berber dükkanı, 理髪店, barbershop
+ 425, ahır, 納屋, barn
+ 426, barometre, バロメーター, barometer
+ 427, varil, タル, barrel
+ 428, el arabası, 手押し車, barrow
+ 429, beyzbol, 野球, baseball
+ 430, basketbol, バスケットボール, basketball
+ 431, sepet beşik, ほろ付きゆりかご, bassinet
+ 432, fagot, ファゴット, bassoon
+ 433, yüzme bonesi, 水泳帽, bathing cap
+ 434, banyo havlusu, バスタオル, bath towel
+ 435, banyo küveti, 浴槽, bathtub
+ 436, plaj vagonu, ビーチワゴン, beach wagon
+ 437, deniz feneri, 灯台, beacon
+ 438, deney şişesi, ビーカー, beaker
+ 439, siyah kürk şapka, 黒毛皮帽, bearskin
+ 440, bira şişesi, ビール瓶, beer bottle
+ 441, bira bardağı, ビールグラス, beer glass
+ 442, çan kulesi, 鐘楼, bell cote
+ 443, bebek önlüğü, よだれかけ, bib
+ 444, çift kişilik bisiklet, タンデム自転車, bicycle-built-for-two
+ 445, bikini, ビキニ, bikini
+ 446, klasör, バインダー, binder
+ 447, dürbün, 双眼鏡, binoculars
+ 448, kuş evi, 巣箱, birdhouse
+ 449, kayıkhane, ボートハウス, boathouse
+ 450, yarış kızağı, ボブスレー, bobsled
+ 451, bolo kravat, ループタイ, bolo tie
+ 452, siperli kadın şapka, ボンネット（帽子）, bonnet
+ 453, kitaplık, 本棚, bookcase
+ 454, kitapçı, 本屋, bookshop
+ 455, Şişe kapağı, 瓶のキャップ, bottlecap
+ 456, yay, 弓, bow
+ 457, papyon, ちょうネクタイ, bow tie
+ 458, anıt levha, 記念碑, memorial tablet
+ 459, sutyen, ブラジャー, brassiere
+ 460, dalgakıran, 防波堤, breakwater
+ 461, zırh (göğüslük), 胸当て, breastplate
+ 462, saplı süpürge, ホウキ, broom
+ 463, kova, バケツ, bucket
+ 464, kemer tokası, バックル, buckle
+ 465, kurşun geçirmez yelek, 防弾チョッキ, bulletproof vest
+ 466, hızlı tren, 新幹線, bullet train
+ 467, Kasap dükkanı, 精肉店, butcher shop
+ 468, taksi, タクシー, cab
+ 469, kazan, 大鍋, caldron
+ 470, mum, ろうそく, candle
+ 471, top(silah), 大砲, cannon
+ 472, kano, カヌー, canoe
+ 473, konserve açacağı, 缶切り, can opener
+ 474, hırka, カーディガン, cardigan
+ 475, araba aynası, サイドミラー, car mirror
+ 476, atlıkarınca, メリーゴーランド, carousel
+ 477, marangoz aletleri seti, 大工キット, carpenter's kit
+ 478, karton, 段ボール, carton
+ 479, araba tekerleği, ホイール, car wheel
+ 480, bankamatik(ATM), ATM, cash machine
+ 481, kaset, カセット, cassette
+ 482, kaset çalar, カセットプレーヤー, cassette player
+ 483, kale, 城, castle
+ 484, katamaran, 双胴船, catamaran
+ 485, CD çalar, CDプレーヤー, CD player
+ 486, çello, チェロ, cello
+ 487, cep telefonu, 携帯電話, cellular telephone
+ 488, zincir, 鎖, chain
+ 489, tel örgü, 金網フェンス, chainlink fence
+ 490, zincir zırh, 鎖かたびら, chain mail
+ 491, zincirli testere, チェーンソー, chain saw
+ 492, sandık, 箱, chest
+ 493, şifonyer, たんす, chiffonier
+ 494, çan(zil), ベル, chime
+ 495, vitrin, チャイナキャビネット, china cabinet
+ 496, noel çorabı, クリスマスの靴下, Christmas stocking
+ 497, kilise, 教会, church
+ 498, sinema, 映画館, cinema
+ 499, satır bıçağı, 大包丁, cleaver
+ 500, mağara ev, 崖住居, cliff dwelling
+ 501, pelerin, マント, cloak
+ 502, takunya, 木靴, clog
+ 503, kokteyl çalkalayıcısı, カクテルシェーカー, cocktail shaker
+ 504, kahve kupası, コーヒーマグカップ, coffee mug
+ 505, kahve demliği, コーヒーポット, coffeepot
+ 506, bobin, らせん, coil
+ 507, şifreli kilit, ダイヤル錠, combination lock
+ 508, bilgisayar klavyesi, キーボード, computer keyboard
+ 509, şekerci dükkanı, お菓子屋, confectionery
+ 510, konteyner gemisi, コンテナ船, container ship
+ 511, üstü açık araba, オープンカー, convertible
+ 512, tirbuşon, コルク抜き, corkscrew
+ 513, kornet(çalgı), コルネット, cornet
+ 514, kovboy çizmesi, カウボーイブーツ, cowboy boot
+ 515, kovboy şapkası, カウボーイハット, cowboy hat
+ 516, beşik, ゆりかご, cradle
+ 517, vinç, クレーン, crane
+ 518, kask, ヘルメット, crash helmet
+ 519, kutu, 木箱, crate
+ 520, bebek yatağı, ベビーベッド, crib
+ 521, elektrikli tencere, 電気鍋, Crock Pot
+ 522, kroket topu, クロケットボール, croquet ball
+ 523, koltuk değneği, 松葉杖, crutch
+ 524, zırh, 鎧, cuirass
+ 525, baraj, ダム, dam
+ 526, masa, 机, desk
+ 527, masaüstü bilgisayar, デスクトップコンピューター, desktop computer
+ 528, diskli telefon, ダイヤル式電話, dial telephone
+ 529, bebek bezi, おむつ, diaper
+ 530, dijital saat, デジタル時計, digital clock
+ 531, dijital kol saati, デジタル腕時計, digital watch
+ 532, yemek masası, ダイニングテーブル, dining table
+ 533, bulaşık bezi, ふきん, dishrag
+ 534, bulaşık makinesi, 食器洗い機, dishwasher
+ 535, disk fren, ディスクブレーキ, disk brake
+ 536, rıhtım, 波止場, dock
+ 537, köpek kızağı, 犬ぞり, dogsled
+ 538, kubbe, ドーム, dome
+ 539, paspas, ドアマット, doormat
+ 540, sondaj platformu, 掘削プラットフォーム, drilling platform
+ 541, davul, ドラム, drum
+ 542, davul sopası, ドラムスティック, drumstick
+ 543, dambıl, ダンベル, dumbbell
+ 544, hollandalı fırını, ダッチオーブン, Dutch oven
+ 545, elektrikli fan, 扇風機, electric fan
+ 546, elektro gitar, エレキギター, electric guitar
+ 547, elektrikli lokomotif, 電気機関車, electric locomotive
+ 548, TV askı aparatı, エンターテインメント・センター（家具）, entertainment center
+ 549, zarf, 封筒, envelope
+ 550, espresso makinesi, エスプレッソメーカー, espresso maker
+ 551, makyaj pudrası, フェースパウダー, face powder
+ 552, tüy boa, フェザーボア, feather boa
+ 553, dosya dolabı, 書類棚, file
+ 554, yangın söndürme gemisi, 消防艇, fireboat
+ 555, itfaiye arabası, 消防車, fire engine
+ 556, şömine paravanı, 火よけついたて, fire screen
+ 557, bayrak direği, 旗ざお, flagpole
+ 558, flüt, フルート, flute
+ 559, katlanır sandalye, 折りたたみ椅子, folding chair
+ 560, futbol kaskı, フットボールヘルメット, football helmet
+ 561, forklift, フォークリフト, forklift
+ 562, çeşme, 噴水, fountain
+ 563, dolma kalem, 万年筆, fountain pen
+ 564, dört direkli karyola, 四柱式ベッド, four-poster
+ 565, yük vagonu, 貨物車両, freight car
+ 566, Fransız kornosu, フレンチホルン, French horn
+ 567, kızartma tavası, フライパン, frying pan
+ 568, kürk mont, 毛皮のコート, fur coat
+ 569, çöp kamyonu, ごみ収集車, garbage truck
+ 570, gaz maskesi, ガスマスク, gasmask
+ 571, gaz pompası, ガスポンプ, gas pump
+ 572, kadeh, ゴブレット, goblet
+ 573, yarış arabası , ゴーカート, go-kart
+ 574, golf topu, ゴルフボール, golf ball
+ 575, golf arabası, ゴルフカート, golfcart
+ 576, gondol, ゴンドラ, gondola
+ 577, gong, ゴング, gong
+ 578, elbise, ドレス, gown
+ 579, kuyruklu piyano, グランドピアノ, grand piano
+ 580, sera, 温室, greenhouse
+ 581, radyatör ızgarası, フロントグリル, grille
+ 582, bakkal, 食料品店, grocery store
+ 583, giyotin, ギロチン, guillotine
+ 584, saç tokası, 髪留め, hair slide
+ 585, saç spreyi, ヘアスプレー, hair spray
+ 586, yarı tırtıllı, 半装軌車, half track
+ 587, çekiç, ハンマー, hammer
+ 588, sepet, かご, hamper
+ 589, saç kurutma makinesi, ヘアドライヤー, hand blower
+ 590, el bilgisayarı, モバイル端末, hand-held computer
+ 591, mendil, ハンカチ, handkerchief
+ 592, sabit disk(hard disk), ハードディスク, hard disc
+ 593, mızıka, ハーモニカ, harmonica
+ 594, arp, ハープ, harp
+ 595, biçerdöver, ハーベスター, harvester
+ 596, balta, 斧, hatchet
+ 597, tabanca kılıfı, ホルスター, holster
+ 598, ev sineması, ホームシアター, home theater
+ 599, bal peteği, 蜂の巣, honeycomb
+ 600, kanca, フック, hook
+ 601, çemberli etek, フープスカート, hoopskirt
+ 602, barfiks, 鉄棒, horizontal bar
+ 603, at arabası, 馬車, horse cart
+ 604, kum saati, 砂時計, hourglass
+ 605, iPod, iPod, iPod
+ 606, ütü, アイロン, iron
+ 607, kabak fener, ジャック・オー・ランタン, jack-o'-lantern
+ 608, kot pantolon, ジーンズ, jean
+ 609, arazi taşıtı, ジープ, jeep
+ 610, tişört, Tシャツ, jersey
+ 611, yapboz, ジグソーパズル, jigsaw puzzle
+ 612, japon faytonu, 人力車, jinrikisha
+ 613, oyun çubuğu, ジョイスティック, joystick
+ 614, kimono, 着物, kimono
+ 615, diz koruyucu, 膝当て, knee pad
+ 616, düğüm, 結び目, knot
+ 617, laboratuvar önlüğü, 白衣, lab coat
+ 618, kepçe, おたま, ladle
+ 619, abajur, ランプシェード, lampshade
+ 620, dizüstü bilgisayar, ラップトップ, laptop
+ 621, çim biçme makinesi, 芝刈り機, lawn mower
+ 622, mercek kapağı, レンズキャップ, lens cap
+ 623, mektup açacağı, レターオープナー, letter opener
+ 624, kütüphane, 図書館, library
+ 625, cankurtaran botu, 救命ボート, lifeboat
+ 626, çakmak, ライター, lighter
+ 627, limuzin, リムジン, limousine
+ 628, yolcu gemisi, 遠洋定期船, liner
+ 629, ruj, 口紅, lipstick
+ 630, mokasen, ローファー, Loafer
+ 631, losyon, ローション, lotion
+ 632, hoparlör, スピーカー, loudspeaker
+ 633, pertavsız, ルーペ, loupe
+ 634, kereste fabrikası, 製材所, lumbermill
+ 635, manyetik pusula, 方位磁針, magnetic compass
+ 636, postacı çantası, 郵便カバン, mailbag
+ 637, posta kutusu, 郵便受け, mailbox
+ 638, tek parça mayo, レオタード, maillot
+ 639, etekli mayo, ワンピース水着, tank suit
+ 640, rögar kapağı, マンホール蓋, manhole cover
+ 641, marakas, マラカス, maraca
+ 642, marimba, マリンバ, marimba
+ 643, maske, 仮面, mask
+ 644, kibrit çöpü, マッチ棒, matchstick
+ 645, bahar bayramı çiçekli direği, メイポール, maypole
+ 646, labirent, 迷路, maze
+ 647, ölçü kabı, 計量カップ, measuring cup
+ 648, ilaç dolabı, 薬棚, medicine chest
+ 649, taş anıt, 巨石, megalith
+ 650, mikrofon, マイク, microphone
+ 651, mikrodalga, 電子レンジ, microwave
+ 652, askeri üniforma, 軍服, military uniform
+ 653, süt güğümü, ミルク缶, milk can
+ 654, minibüs, ミニバス, minibus
+ 655, mini etek, ミニスカート, miniskirt
+ 656, minivan, ミニバン, minivan
+ 657, füze, ミサイル, missile
+ 658, tek parmaklı eldiven, ミトン, mitten
+ 659, karıştırma kabı, ボウル, mixing bowl
+ 660, mobil ev, トレーラーハウス, mobile home
+ 661, Model T, フォード・モデルT, Model T
+ 662, modem, モデム, modem
+ 663, manastır, 修道院, monastery
+ 664, monitör, モニター, monitor
+ 665, moped motosiklet, モペッド, moped
+ 666, havan, すり鉢, mortar
+ 667, mezuniyet kepi, 角帽, mortarboard
+ 668, cami, モスク, mosque
+ 669, cibinlik, 蚊帳, mosquito net
+ 670, motosiklet, スクーター, motor scooter
+ 671, dağ bisikleti, マウンテンバイク, mountain bike
+ 672, çadır, テント, mountain tent
+ 673, mouse, マウス, mouse
+ 674, fare kapanı, ネズミ捕り, mousetrap
+ 675, kamyon, トラック, moving van
+ 676, köpek ağızlığı, 口輪, muzzle
+ 677, çivi, 釘, nail
+ 678, boyunluk, ネックカラー, neck brace
+ 679, kolye, ネックレス, necklace
+ 680, emzik, おしゃぶり, nipple
+ 681, defter bilgisayar , ノートパソコン, notebook computer
+ 682, obelisk, オベリスク, obelisk
+ 683, obua, オーボエ, oboe
+ 684, okarina, オカリナ, ocarina
+ 685, kilometre sayacı, 走行距離計, odometer
+ 686, yağ filtresi, オイルフィルター, oil filter
+ 687, borulu org, パイプオルガン, organ
+ 688, osiloskop, オシロスコープ, oscilloscope
+ 689, etek, オーバースカート, overskirt
+ 690, öküz arabası, 牛車, oxcart
+ 691, oksijen maskesi, 酸素マスク, oxygen mask
+ 692, paket, 小包み, packet
+ 693, kano küreği, パドル, paddle
+ 694, çark, 外輪, paddlewheel
+ 695, asma kilit, 南京錠, padlock
+ 696, boya fırçası, 絵筆, paintbrush
+ 697, pijama, パジャマ, pajama
+ 698, saray, 宮殿, palace
+ 699, pan flütü, パンパイプ, panpipe
+ 700, kağıt havlu, ペーパータオル, paper towel
+ 701, paraşüt, パラシュート, parachute
+ 702, paralel bar, 平行棒, parallel bars
+ 703, bank, ベンチ, park bench
+ 704, parkmetre, パーキングメーター, parking meter
+ 705, yolcu vagonu, 客車, passenger car
+ 706, teras, テラス, patio
+ 707, ankesörlü telefon, 公衆電話, pay-phone
+ 708, kaide, 台座, pedestal
+ 709, kalem kutusu, 筆箱, pencil box
+ 710, kalemtıraş, 鉛筆削り, pencil sharpener
+ 711, parfüm, 香水, perfume
+ 712, petri kabı, シャーレ, Petri dish
+ 713, fotokopi makinesi, コピー機, photocopier
+ 714, pena, ピック, pick
+ 715, pickelhaube, ピッケルハウベ, pickelhaube
+ 716, kazıklı çit, 柵, picket fence
+ 717, kamyonet, ピックアップトラック, pickup
+ 718, iskele, 埠頭, pier
+ 719, kumbara, 貯金箱, piggy bank
+ 720, ilaç şişesi, 薬瓶, pill bottle
+ 721, yastık, 枕, pillow
+ 722, pinpon topu, ピンポン玉, ping-pong ball
+ 723, fırıldak, 風車, pinwheel
+ 724, korsan gemisi, 海賊船, pirate
+ 725, sürahi, ピッチャー, pitcher
+ 726, ahşap düzlem, かんな, plane
+ 727, planetaryum, プラネタリウム, planetarium
+ 728, poşet, ビニール袋, plastic bag
+ 729, tabaklık, プレートラック, plate rack
+ 730, pulluk, 耕運機, plow
+ 731, lavabo pompası, ラバーカップ, plunger
+ 732, Polaroid fotoğraf makinesi, ポラロイドカメラ, Polaroid camera
+ 733, direk, ポール, pole
+ 734, cezaevi aracı, 警察車両, police van
+ 735, panço, ポンチョ, poncho
+ 736, bilardo masası, ビリヤード台, pool table
+ 737, şişe, ボトル, pop bottle
+ 738, saksı, 植木鉢, pot
+ 739, çömlekçi çarkı, ろくろ, potter's wheel
+ 740, matkap, ドリル, power drill
+ 741, seccade, 礼拝用マット, prayer rug
+ 742, yazıcı, プリンタ, printer
+ 743, hapishane, 刑務所, prison
+ 744, mermi, 弾丸, projectile
+ 745, projektör, プロジェクター, projector
+ 746, buz hokeyi pakı, アイスホッケーパック, puck
+ 747, kum torbası, サンドバッグ, punching bag
+ 748, el çantası, ハンドバッグ, purse
+ 749, tüy kalem, 羽根ペン, quill
+ 750, örtü, キルト, quilt
+ 751, yarış arabası, レースカー, racer
+ 752, raket, ラケット, racket
+ 753, radyatör, ラジエーター, radiator
+ 754, radyo, ラジオ, radio
+ 755, radyoteleskop, 電波望遠鏡, radio telescope
+ 756, yağmur suyu varili, 雨水タンク, rain barrel
+ 757, karavan, キャンピングカー, recreational vehicle
+ 758, makara, リール, reel
+ 759, refleks fotoğraf makinesi, 一眼レフカメラ, reflex camera
+ 760, buzdolabı, 冷蔵庫, refrigerator
+ 761, kumanda, リモコン, remote control
+ 762, restoran, レストラン, restaurant
+ 763, toplu tabanca, リボルバー, revolver
+ 764, tüfek, ライフル, rifle
+ 765, sallanan sandalye, ロッキングチェア, rocking chair
+ 766, döner makinesi, 回転肉焼き器, rotisserie
+ 767, silgi, 消しゴム, rubber eraser
+ 768, rugby topu, ラグビーボール, rugby ball
+ 769, cetvel, じょうぎ, rule
+ 770, koşu ayakkabısı, ランニングシューズ, running shoe
+ 771, çelik kasa, 金庫, safe
+ 772, çengelli iğne, 安全ピン, safety pin
+ 773, tuzluk, 塩入れ, saltshaker
+ 774, sandalet, サンダル, sandal
+ 775, peştemal, サロン, sarong
+ 776, saksofon, サックス, sax
+ 777, kılıç kını, 鞘, scabbard
+ 778, tartı, 計量器, scale
+ 779, okul otobüsü, スクールバス, school bus
+ 780, uskuna, スクーナー, schooner
+ 781, puan tahtası, スコアボード, scoreboard
+ 782, ekran, 画面, screen
+ 783, vida, ネジ, screw
+ 784, tornavida, ドライバー, screwdriver
+ 785, emniyet kemeri, シートベルト, seat belt
+ 786, dikiş makinesi, ミシン, sewing machine
+ 787, kalkan, 盾, shield
+ 788, ayakkabı dükkanı, 靴屋, shoe shop
+ 789, shoji, 障子, shoji
+ 790, alışveriş sepeti, 買い物カゴ, shopping basket
+ 791, market arabası, ショッピングカート, shopping cart
+ 792, kürek, シャベル, shovel
+ 793, duş bonesi, シャワーキャップ, shower cap
+ 794, duş perdesi, シャワーカーテン, shower curtain
+ 795, kayak, スキー, ski
+ 796, kayak maskesi, 目出し帽, ski mask
+ 797, uyku tulumu, 寝袋, sleeping bag
+ 798, sürgülü hesap cetveli, 計算尺, slide rule
+ 799, sürgülü kapı, 引き戸, sliding door
+ 800, slot makinesi, スロットマシーン, slot
+ 801, şnorkel, シュノーケル, snorkel
+ 802, kar arabası, スノーモービル, snowmobile
+ 803, kar temizleme aracı, 除雪車, snowplow
+ 804, sabunluk, ソープディスペンサー, soap dispenser
+ 805, futbol topu, サッカーボール, soccer ball
+ 806, çorap, 靴下, sock
+ 807, güneş kollektörü, 太陽炉, solar dish
+ 808, Meksika şapkası, ソンブレロ, sombrero
+ 809, çorba kasesi, スープ皿, soup bowl
+ 810, ara çubuğu tuşu, スペースキー, space bar
+ 811, ısıtıcısı, ヒーター, space heater
+ 812, uzay mekiği, スペースシャトル, space shuttle
+ 813, spatula, へら, spatula
+ 814, sürat teknesi, モーターボート, speedboat
+ 815, örümcek ağı, クモの巣, spider web
+ 816, iğ, 紡錘, spindle
+ 817, spor araba, スポーツカー, sports car
+ 818, spot ışığı, スポットライト, spotlight
+ 819, sahne, ステージ, stage
+ 820, buharlı tren, 蒸気機関車, steam locomotive
+ 821, çelik kemer köprüsü, 鋼アーチ橋, steel arch bridge
+ 822, çelik varil, スチールドラム, steel drum
+ 823, stetoskop, 聴診器, stethoscope
+ 824, şal, ストール, stole
+ 825, taş duvar, 石垣, stone wall
+ 826, kronometre, ストップウォッチ, stopwatch
+ 827, ocak, コンロ, stove
+ 828, süzgeç, 濾過器, strainer
+ 829, tramvay, 路面電車, streetcar
+ 830, sedye, 担架, stretcher
+ 831, kanepe, ソファー, studio couch
+ 832, stupa, 卒塔婆, stupa
+ 833, denizaltı, 潜水艦, submarine
+ 834, takım elbise, スーツ, suit
+ 835, güneş saati, 日時計, sundial
+ 836, güneş gözlüğü, サングラス, sunglass
+ 837, siyah güneş gözlüğü, カラーレンズサングラス, dark glasses
+ 838, güneş kremi, 日焼け止め, sunscreen
+ 839, asma köprü, つり橋, suspension bridge
+ 840, mop, モップ, swab
+ 841, svetşört, スウェット, sweatshirt
+ 842, erkek mayo, 海パン, swimming trunks
+ 843, salıncak, ブランコ, swing
+ 844, elektrik düğmesi, 電気スイッチ, switch
+ 845, şırınga, 注射器, syringe
+ 846, masa lambası, テーブルランプ, table lamp
+ 847, askeri tank, 戦車, tank
+ 848, teyp çalar, テーププレーヤー, tape player
+ 849, demlik, ティーポット, teapot
+ 850, oyuncak ayı, テディベア, teddy
+ 851, televizyon, テレビ, television
+ 852, tenis topu, テニスボール, tennis ball
+ 853, kamış çatı, わらぶき屋根, thatch
+ 854, tiyatro perdesi, どんちょう, theater curtain
+ 855, yüksük, 指ぬき, thimble
+ 856, harman makinesi, 脱穀機, thresher
+ 857, taht, 王座, throne
+ 858, kiremit çatı, 瓦屋根, tile roof
+ 859, ekmek kızartma makinesi, トースター, toaster
+ 860, tütüncü, タバコ屋, tobacco shop
+ 861, klozet, 便座, toilet seat
+ 862, meşale, たいまつ, torch
+ 863, totem direği, トーテムポール, totem pole
+ 864, çekici araç, レッカー車, tow truck
+ 865, oyuncak dükkanı, おもちゃ屋, toyshop
+ 866, traktör, トラクター, tractor
+ 867, tır kamyonu, トレーラートラック, trailer truck
+ 868, tepsi, 盆, tray
+ 869, trençkot, トレンチコート, trench coat
+ 870, üç tekerlekli bisiklet, 三輪車, tricycle
+ 871, trimaran, 三胴船, trimaran
+ 872, üç ayaklı sehpa, 三脚, tripod
+ 873, zafer kemeri, 凱旋門, triumphal arch
+ 874, troleybüs, トロリーバス, trolleybus
+ 875, trombon, トロンボーン, trombone
+ 876, küvet, 桶, tub
+ 877, turnike, 改札口, turnstile
+ 878, daktilo klavyesi, タイプライターキーボード, typewriter keyboard
+ 879, şemsiye, 傘, umbrella
+ 880, unicycle, 一輪車, unicycle
+ 881, dik piyano, アップライトピアノ, upright
+ 882, elektrikli süpürge, 掃除機, vacuum
+ 883, vazo, 花瓶, vase
+ 884, tonoz, アーチ型天井, vault
+ 885, kadife, ベルベット, velvet
+ 886, otomatik satış makinesi, 自動販売機, vending machine
+ 887, cüppe, 法衣, vestment
+ 888, viyadük, 高架橋, viaduct
+ 889, keman, バイオリン, violin
+ 890, voleybol, バレーボール, volleyball
+ 891, gözleme ızgarası, ワッフル焼き型, waffle iron
+ 892, duvar saati, 壁時計, wall clock
+ 893, cüzdan, 財布, wallet
+ 894, gardırop, クローゼット, wardrobe
+ 895, savaş uçağı, 戦闘機, warplane
+ 896, lavabo, 洗面台, washbasin
+ 897, çamaşır makinesi, 洗濯機, washer
+ 898, su şişesi, 水筒, water bottle
+ 899, su sürahisi, 水差し, water jug
+ 900, su kulesi, 給水塔, water tower
+ 901, viski sürahisi, ウイスキージャグ, whiskey jug
+ 902, düdük, ホイッスル, whistle
+ 903, peruk, かつら, wig
+ 904, sineklik, 網戸, window screen
+ 905, jaluzi, ブラインド, window shade
+ 906, geniş kravat, ウィンザーノット, Windsor tie
+ 907, şarap şişesi, ワインボトル, wine bottle
+ 908, kanat, 翼, wing
+ 909, çin wok tava, 中華鍋, wok
+ 910, tahta kaşık, 木製スプーン, wooden spoon
+ 911, yün, 羊毛, wool
+ 912, ahşap çit, フェンス, worm fence
+ 913, gemi enkazı, 難破船, wreck
+ 914, yelken, ヨール, yawl
+ 915, keçe çadır, ゲル, yurt
+ 916, web sitesi, ウェブサイト, web site
+ 917, çizgi roman, マンガ, comic book
+ 918, çapraz bulmaca, クロスワードパズル, crossword puzzle
+ 919, sokak tabelası, 道路標識, street sign
+ 920, trafik ışığı, 信号機, traffic light
+ 921, kitabın dışındaki kâğıt kaplık, ブックカバー, book jacket
+ 922, menü, メニュー, menu
+ 923, tabak, プレート, plate
+ 924, guacamole, ワカモレ, guacamole
+ 925, et suyu çorbası, コンソメスープ, consomme
+ 926, güveç, 鍋, hot pot
+ 927, trifle, トライフル, trifle
+ 928, dondurma, アイスクリーム, ice cream
+ 929, çubuk dondurma, アイスキャンディー, ice lolly
+ 930, Fransız ekmeği, フランスパン, French loaf
+ 931, simit, ベーグル, bagel
+ 932, çubuk kraker, プレッツェル, pretzel
+ 933, çizburger, チーズバーガー, cheeseburger
+ 934, sosisli sandviç, ホットドッグ, hotdog
+ 935, patates püresi, マッシュポテト, mashed potato
+ 936, lahana, キャベツ, head cabbage
+ 937, brokoli, ブロッコリー, broccoli
+ 938, karnabahar, カリフラワー, cauliflower
+ 939, kabak, ズッキーニ, zucchini
+ 940, su kabağı, キンシウリ, spaghetti squash
+ 941, yeşil kış kabağı, ドングリカボチャ, acorn squash
+ 942, balkabağı, バターナット・スクウォッシュ, butternut squash
+ 943, salatalık, きゅうり, cucumber
+ 944, enginar, アーティチョーク, artichoke
+ 945, dolmalık biber, ピーマン, bell pepper
+ 946, kengel, カルドン, cardoon
+ 947, mantar, キノコ, mushroom
+ 948, Granny Smith elma, グラニースミス（青リンゴ）, Granny Smith
+ 949, çilek, イチゴ, strawberry
+ 950, portakal, オレンジ, orange
+ 951, limon, レモン, lemon
+ 952, incir, イチジク, fig
+ 953, ananas, パイナップル, pineapple
+ 954, muz, バナナ, banana
+ 955, jackfruit meyvesi, パラミツ, jackfruit
+ 956, Hint ayvası, バンレイシ, custard apple
+ 957, nar, ザクロ, pomegranate
+ 958, saman, 干し草, hay
+ 959, Spaghetti Carbonara, カルボナーラ, carbonara
+ 960, çikolata sosu, チョコレートソース, chocolate sauce
+ 961, hamur, 生地, dough
+ 962, rulo köfte, ミートローフ, meat loaf
+ 963, pide, ピザ, pizza
+ 964, börek, パイ, potpie
+ 965, meksika dürüm, ブリトー, burrito
+ 966, kırmızı şarap, 赤ワイン, red wine
+ 967, espresso, エスプレッソ, espresso
+ 968, fincan, カップ, cup
+ 969, eggnog, エッグノッグ, eggnog
+ 970, yüksek dağ, 高山, alp
+ 971, köpük, 泡, bubble
+ 972, uçurum, 崖, cliff
+ 973, mercan kayalığı, 珊瑚礁, coral reef
+ 974, gayzer, 間欠泉, geyser
+ 975, göl kenarı, 湖畔, lakeside
+ 976, çıkıntı, 岬, promontory
+ 977, kıyı kordonu, 砂州, sandbar
+ 978, deniz kıyısı, 海岸, seashore
+ 979, vadi, 谷, valley
+ 980, volkan, 火山, volcano
+ 981, beyzbol oyuncusu, 野球選手, baseball player
+ 982, damat, 新郎, groom
+ 983, scuba dalgıcı, スキューバダイバー, scuba diver
+ 984, kolza, 菜の花, rapeseed
+ 985, papatya, ヒナギク, daisy
+ 986, sarı venüs çarığı, ラン, yellow lady's slipper
+ 987, mısır, コーン, corn
+ 988, meşe palamudu, どんぐり, acorn
+ 989, kuşburnu, ローズヒップ, hip
+ 990, at kestanesi, トチノキ, buckeye
+ 991, mercan mantarı, シロソウメンタケ, coral fungus
+ 992, katran köpüğü, ベニテングタケ, agaric
+ 993, beyin mantarı, シャグマアミガサタケ, gyromitra
+ 994, stinkhorn mantarı, スッポンタケ, stinkhorn
+ 995, toprak yıldız mantar, ツチグリ, earthstar
+ 996, maitake mantarı, マイタケ, hen-of-the-woods
+ 997, ayı mantarı, ヤマドリタケ, bolete
+ 998, mısır , とうもろこし, ear
+ 999, tuvalet kağıdı, トイレットペーパー, toilet tissue
